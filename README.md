@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tereza Knapková
 
-🎓 Computer Science Student  
+🎓 Computer Science Student at Aarhus University (specializing in AI & Cryptology)  
 💻 Tech Explorer & Fast Learner  
 🏅 Sports Enthusiast
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm currently studying Computer Science and love getting hands-on with new technologies—whether that's building web apps, tinkering with backends, or just figuring out how things work. My favorite part? Diving deep into topics that catch my curiosity and learning as much as I can.
+I'm currently studying Computer Science at Aarhus University, specializing in artificial intelligence and cryptology. I love getting hands-on with new technologies—whether that's building web apps, tinkering with backends, or just figuring out how things work. My favorite part? Diving deep into topics that catch my curiosity and learning as much as I can.
 
 I'm always up for a challenge, especially when it means picking up a new skill or working on something I've never tried before. When I'm not coding, you'll probably find me outdoors or playing sports.
 
@@ -37,7 +37,7 @@ Here are some of the technologies and tools I’ve worked with:
 - **Mobile App Development:** Ionic, Swift
 - **Java (Spring Framework)**
 - **Microsoft Power Platform** (Power Apps, Power Automate, Power BI, etc.)
-- Exploring **Machine Learning**
+- Exploring **Machine Learning, AI, and Cryptology**
 
 I’m always open to learning more!
 
