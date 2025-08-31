@@ -2,8 +2,6 @@
 
 🎓 Computer Science Student at Aarhus University (specializing in AI & Cryptology)  
 💻 Tech Explorer & Fast Learner  
-🏅 Sports Enthusiast
-
 ---
 
 ## About Me
