@@ -2,8 +2,11 @@
 
 
 🎓 Master’s student in Computer Science at Aarhus University — specialization in AI & Cryptology (2025 - *2027)
+
 🎓 Bachelor’s in Software Engineering from Tomas Bata University in Zlín (2025)
+
 💻 Tech explorer & fast learner 
+
 ---
 
 ## About Me
