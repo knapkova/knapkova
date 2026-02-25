@@ -1,5 +1,6 @@
 
 🎓 Master’s student in Computer Science at Aarhus University — specialization in AI,ML (2025 - *2027)
+
 🎓 Bachelor’s in Software Engineering from Tomas Bata University in Zlín (2021-2025)
 
 
